@@ -1,4 +1,4 @@
-# NETFLIX-RECOMMENDATION-SYSTEM-AND-SENTIMENTAL-ANALYSIS
+# Netflix-Recommendation-System-and-Sentimental-Analysis
 Your personalized movie recommendation system powered by sentiment analysis.
 
 ## Overview
