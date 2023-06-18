@@ -1,5 +1,8 @@
 # Netflix-Recommendation-System-and-Sentimental-Analysis
 Your personalized movie recommendation system powered by sentiment analysis.
+![netflix](https://github.com/Saswato/Netflix-Recommendation-System-and-Sentimental-Analysis/assets/67147010/c3df831e-5d90-4b0f-a40b-445b46281fdf)
+
+
 
 ## Overview
 
